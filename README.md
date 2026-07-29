@@ -8,9 +8,9 @@ XHub is a free all-in-one Roblox script hub with auto game detection, regular up
 
 ## Official loadstring
 
-`lua
+```lua
 loadstring(game:HttpGet("https://xhub.blog/xhub-boot.lua"))()
-`
+```
 
 ---
 
@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://xhub.blog/xhub-boot.lua"))()
 
 Full guide: [https://xhub.blog/tutorial.html](https://xhub.blog/tutorial.html)
 
-> **Note:** Use **Get Key** only (/get-key). Do **not** open private unlock / portal links — those show “Accès refusé” without a checkpoint.
+> **Note:** Use **Get Key** / portal only. Do **not** open private unlock links — those show “Accès refusé” without a checkpoint.
 
 ---
 
@@ -34,15 +34,16 @@ Full guide: [https://xhub.blog/tutorial.html](https://xhub.blog/tutorial.html)
 | Game | Status | Highlights |
 |------|--------|------------|
 | **Des Hood** | Supported | Silent Aim, Aura, Shop / Loadout |
-| **Duels Couteau** | Supported | Aimbot, Kill Aura, ESP |
-| **Duel Murder** | Supported | Silent Aim / Stab / Throw, ESP roles |
+| **Knife Duels** | Supported | Aimbot, Kill Aura, ESP |
+| **Duel Murder** | Supported | Silent Aim / Stab / Throw, ESP roles · mobile-friendly |
+| **Samurai DUELS** | Supported | Combat hub support |
 | **Duels Sheriffs** | Supported | Same kit as Duel Murder |
 | **Zombie Uprising** | Supported | Silent Aim, Kill Aura, Points, PAP / weapons |
-| **TTK Testing** | DEV | In development |
 | **Rivals** | DEV | In development |
+| **TTK Testing** | DEV | In development |
 | **Clasifia V2** | RIP | No longer on Roblox |
 
-More: [https://xhub.blog/library#/games](https://xhub.blog/library#/games)
+More: [https://xhub.blog/library#/games](https://xhub.blog/library#/games) · Updates: [https://xhub.blog/updates.html](https://xhub.blog/updates.html)
 
 ---
 
@@ -61,8 +62,9 @@ More: [https://xhub.blog/library#/games](https://xhub.blog/library#/games)
 
 - Keys are **free** (~24h) and **HWID-locked**
 - You can complete the Get Key steps **twice** to extend up to **48h maximum** (24h → 48h)
-- We do **not** distribute executors — use any executor with HttpGet + loadstring
+- We do **not** distribute executors — use any executor with `HttpGet` + `loadstring`
 - Never share your key in public chat
 - After Roblox updates, wait for executor + hub patches
+- This repository is **README-only** (no project source)
 
 **XHub — scripts that just work.**
