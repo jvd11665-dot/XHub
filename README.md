@@ -35,8 +35,8 @@ Full guide: [https://xhub.blog/tutorial.html](https://xhub.blog/tutorial.html)
 |------|--------|------------|
 | **Des Hood** | Supported | Silent Aim, Aura, Shop / Loadout |
 | **Knife Duels** | Supported | Aimbot, Kill Aura, ESP |
-| **Duel Murder** | Supported | Silent Aim / Stab / Throw, ESP roles · mobile-friendly |
-| **Samurai DUELS** | Supported | Combat hub support |
+| **Duel Murder** | Supported | Silent Aim / Stab / Throw, ESP · mobile-adapted menus |
+| **Samurai DUELS** | Supported | Combat hub support · mobile-ready |
 | **Duels Sheriffs** | Supported | Same kit as Duel Murder |
 | **Zombie Uprising** | Supported | Silent Aim, Kill Aura, Points, PAP / weapons |
 | **Rivals** | DEV | In development |
@@ -66,5 +66,6 @@ More: [https://xhub.blog/library#/games](https://xhub.blog/library#/games) · Up
 - Never share your key in public chat
 - After Roblox updates, wait for executor + hub patches
 - This repository is **README-only** (no project source)
+- **Menus & features are mobile-adapted** (Silent Aim & more — not PC-only)
 
-**XHub — scripts that just work.**
+**XHub — scripts that just work. Have fun.**
