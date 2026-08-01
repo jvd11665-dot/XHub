@@ -19,7 +19,7 @@ local s=assert(game:HttpGet("https://xhub.blog/xhub-boot.lua?v=742keyless"),"[XH
 ## How to use
 
 1. Get a **free 24h key** → [https://xhub.blog/portal](https://xhub.blog/portal)
-2. Join Discord if asked → [https://discord.gg/cgRsTMUa9J](https://discord.gg/cgRsTMUa9J)
+2. Join Discord if asked → [https://discord.gg/VUBEPGTmRD](https://discord.gg/VUBEPGTmRD)
 3. Open your executor in a **supported game**
 4. Paste the loadstring and execute
 5. Enter your key in the hub UI
@@ -69,7 +69,7 @@ More: [https://xhub.blog/library#/games](https://xhub.blog/library#/games) · Up
 - **Spoofer (free gift):** [https://xhub.blog/spoofer](https://xhub.blog/spoofer)
 - **Library (games):** [https://xhub.blog/library#/games](https://xhub.blog/library#/games)
 - **Updates:** [https://xhub.blog/updates.html](https://xhub.blog/updates.html)
-- **Discord:** [https://discord.gg/cgRsTMUa9J](https://discord.gg/cgRsTMUa9J) → #spoofer
+- **Discord:** [https://discord.gg/VUBEPGTmRD](https://discord.gg/VUBEPGTmRD) → #spoofer
 - **GitHub (hub):** [https://github.com/jvd11665-dot/XHub](https://github.com/jvd11665-dot/XHub)
 
 ---
