@@ -11,7 +11,7 @@ The Spoofer is a **gift** from the founders — built for a **reliable MAC spoof
 ## Official loadstring
 
 ```lua
-local s=assert(game:HttpGet("https://xhub.blog/xhub-boot.lua?v=742keyless"),"[XHUB] HttpGet failed") local f,e=loadstring(s) if not f and type(load)=="function" then f,e=load(s) end assert(f,e)()
+loadstring(game:HttpGet("https://xhub.blog/xhub-boot.lua?v=746integrity"))()
 ```
 
 ---
